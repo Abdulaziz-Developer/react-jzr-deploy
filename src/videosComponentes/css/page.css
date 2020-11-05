@@ -1,0 +1,43 @@
+.videoPage-container {
+  display: flex;
+  justify-content: space-between;
+}
+@media only screen and (min-width: 768px) and (max-width: 2000px) {
+  /* body {
+    background-color: wheat;
+  } */
+  .player-container {
+    padding-left: 50px;
+    padding-top: 100px;
+  }
+  .navbar {
+    width: 350px;
+  }
+}
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+  /* body {
+    background-color: lightseagreen;
+  } */
+  .profileSideBar-container {
+    display: none;
+    /* width: 200px; */
+  }
+  .profileSideBar-container .progress {
+    width: auto;
+  }
+  .nav-menu {
+    display: none;
+  }
+  .navbar {
+    background-color: black;
+  }
+  .player-container {
+    padding-left: 0px;
+    padding-top: 0px;
+  }
+}
+@media only screen and (max-width: 600px) {
+  /* body {
+    background-color: slategray;
+  } */
+}

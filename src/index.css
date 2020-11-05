@@ -1,0 +1,169 @@
+@import url("https://fonts.googleapis.com/css2?family=Almarai&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: "Almarai", sans-serif;
+  direction: rtl;
+}
+#REGform {
+  width: 450px;
+  background-color: rgb(0, 0, 0);
+  padding: 40px;
+  margin: auto;
+  margin-top: 100px;
+  color: rgb(129, 129, 129);
+}
+.container {
+  background-color: rgb(31, 31, 31);
+  padding: 40px;
+  margin: 40px;
+  width: 370px;
+  margin: auto;
+}
+#REGform input {
+  padding: 10px 20px;
+  width: 100%;
+  border-radius: 10px;
+  outline: none;
+  border: none;
+}
+.sign-up h1 {
+  width: 200px;
+  font-size: 30px;
+  color: white;
+  border: none;
+  margin: 0;
+}
+.sign-up {
+  text-align: center;
+  width: 200px;
+  margin-right: 0;
+  margin-left: 86px;
+}
+.submit-btn {
+  border: none;
+  outline: none;
+  color: white;
+  background-color: rgba(0, 0, 0, 0);
+  text-align: center;
+  font-size: 36px;
+  cursor: pointer;
+}
+.pink-cube {
+  position: absolute;
+  width: 66px;
+  height: 47px;
+  left: 903px;
+  top: 80px;
+  background: rgba(255, 116, 116, 0.83);
+}
+.form-section {
+  display: flex;
+}
+.input__div p {
+  text-decoration: gray;
+  color: gray;
+  text-align: center;
+}
+.submit-cube {
+  position: absolute;
+  width: 36px;
+  height: 26px;
+  left: 715px;
+  top: 586px;
+
+  background: rgba(255, 106, 106, 0.83);
+}
+.submit-cube-login {
+  position: absolute;
+  width: 36px;
+  height: 26px;
+  left: 715px;
+  top: 486px;
+
+  background: rgba(255, 106, 106, 0.83);
+}
+.profile-header {
+  background-color: rgb(255, 255, 255);
+  height: 400px;
+  width: 100%;
+  color: white;
+}
+.head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.Profile-Info .container {
+  width: 80%;
+  height: 500px;
+  background-color: rgba(26, 26, 26, 0.966);
+  border-radius: 10px;
+  margin-top: 50px;
+  display: flex;
+}
+.pfp {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  margin: 0;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 20px;
+  color: rgb(189, 189, 189);
+}
+.Info {
+  display: block;
+  background-color: #0f0f0ff6;
+  border-radius: 5px;
+  width: 200px;
+  height: 100%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.logout-btn {
+  margin-top: 230px;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  color: white;
+  background-color: rgb(255, 60, 76);
+}
+.name-alphabet-container {
+  margin-left: auto;
+  margin-right: auto;
+}
+.Yourname-div {
+  text-align: center;
+}
+.input-name {
+  padding: 10px;
+  border-radius: 30px;
+  border: 3px solid rgb(219, 77, 120);
+  width: 500px;
+  outline: none;
+  margin-top: 30px;
+  font-size: 25px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+.Yourname-div button {
+  position: absolute;
+  padding: 13px;
+  border-radius: 20px 0px 0px 20px;
+  background-color: black;
+  color: white;
+  width: 100px;
+  top: 227px;
+  left: 300px;
+  outline: none;
+  border: none;
+  font-size: 25px;
+  border: 3px solid rgb(43, 41, 41);
+  cursor: pointer;
+}

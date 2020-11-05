@@ -1,0 +1,39 @@
+.profileSideBar-container {
+  background-color: #fffcfc;
+  position: sticky;
+  height: 100vh;
+  display: flex;
+  padding: 5px;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+.profile-container {
+  position: relative;
+  right: 50px;
+  /* background-color: lightpink; */
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  justify-items: left; */
+}
+.profile-container img {
+  width: 100px;
+}
+.progress-items-container {
+  padding: 20px;
+  position: relative;
+  bottom: 60px;
+}
+.cards-container {
+  display: flex;
+  flex: 1;
+  justify-content: space-evenly;
+  width: 200px;
+  height: 100px;
+}
+.cards-container .card {
+  width: 20px;
+  height: 20px;
+  /* background-color: lightslategrey; */
+}

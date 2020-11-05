@@ -1,0 +1,119 @@
+@media only screen and (min-width: 768px) and (max-width: 2000px) {
+  .footer {
+    background: linear-gradient(
+      90deg,
+      rgb(28, 27, 27) 0%,
+      rgb(26, 23, 23) 100%
+    );
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 40px 0px;
+  }
+  .footer-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    list-style-type: none;
+    color: white;
+    width: 50%;
+  }
+  .footer-list li {
+    margin-top: 10px;
+  }
+  .training-link,
+  .account-link,
+  .contactus-link {
+    text-decoration: none;
+    color: white;
+    transition: all 0.2s ease-in-out;
+  }
+  .training-link:hover,
+  .account-link:hover,
+  .contactus-link:hover {
+    color: #ea5151;
+  }
+}
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+  .footer {
+    background: linear-gradient(
+      90deg,
+      rgb(28, 27, 27) 0%,
+      rgb(26, 23, 23) 100%
+    );
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .footer-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    list-style-type: none;
+    color: white;
+    width: 50%;
+  }
+  .footer-list li {
+    margin-top: 10px;
+  }
+  .training-link,
+  .account-link,
+  .contactus-link {
+    text-decoration: none;
+    color: white;
+    transition: all 0.2s ease-in-out;
+  }
+  .training-link:hover,
+  .account-link:hover,
+  .contactus-link:hover {
+    color: #ea5151;
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .footer {
+    background: linear-gradient(
+      90deg,
+      rgb(28, 27, 27) 0%,
+      rgb(26, 23, 23) 100%
+    );
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .footer-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    list-style-type: none;
+    color: white;
+  }
+  .footer-list li {
+    margin-top: 10px;
+  }
+  .training-link,
+  .account-link,
+  .contactus-link {
+    text-decoration: none;
+    color: white;
+    transition: all 0.2s ease-in-out;
+  }
+  .training-link:hover,
+  .account-link:hover,
+  .contactus-link:hover {
+    color: #ea5151;
+  }
+}

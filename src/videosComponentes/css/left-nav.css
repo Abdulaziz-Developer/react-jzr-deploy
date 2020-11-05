@@ -1,0 +1,10 @@
+.container {
+  position: relative;
+}
+
+nav {
+  max-width: 200px;
+  background-color: black;
+  position: sticky;
+  height: 100vh;
+}

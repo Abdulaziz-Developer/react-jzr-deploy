@@ -1,0 +1,56 @@
+[
+  {
+    "title": "الدرس الاول",
+    "id": "lesson1-1",
+    "url": "https://www.youtube.com/embed/0ZJgIjIuY7U",
+    "completed": false
+  },
+  {
+    "title": "الدرس الثاني",
+    "id": "lesson1-2",
+    "url": "https://www.youtube.com/embed/xtAHgrNs7r4",
+    "completed": true
+  },
+  {
+    "title": "الدرس الثالث",
+    "id": "lesson1-3",
+    "url": "https://www.youtube.com/embed/srPXMt1Q0nY",
+    "completed": false
+  },
+  {
+    "title": "الدرس الاول",
+    "id": "lesson2-1",
+    "url": "https://youtu.be/tGHTOVw6F4Q",
+    "completed": false
+  },
+  {
+    "title": "الدرس الثاني",
+    "id": "lesson2-2",
+    "url": "https://youtu.be/tGHTOVw6F4Q",
+    "completed": false
+  },
+  {
+    "title": "الدرس الثالث",
+    "id": "lesson2-3",
+    "url": "https://youtu.be/tGHTOVw6F4Q",
+    "completed": false
+  },
+  {
+    "title": "الدرس الاول",
+    "id": "lesson3-1",
+    "url": "https://youtu.be/wzKTtoMC-uY",
+    "completed": false
+  },
+  {
+    "title": "الدرس الثاني",
+    "id": "lesson3-2",
+    "url": "https://youtu.be/wzKTtoMC-uY",
+    "completed": false
+  },
+  {
+    "title": "الدرس الثالث",
+    "id": "lesson3-3",
+    "url": "https://youtu.be/wzKTtoMC-uY",
+    "completed": false
+  }
+]

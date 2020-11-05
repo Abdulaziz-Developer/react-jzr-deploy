@@ -1,0 +1,115 @@
+[
+  {
+    "alphabet": "ا",
+
+    "image": "../alphabet/ا.png"
+  },
+  {
+    "alphabet": "ب",
+    "image": "../alphabet/ب.png"
+  },
+  {
+    "alphabet": "ت",
+    "image": "../alphabet/ت.png"
+  },
+  {
+    "alphabet": "ث",
+    "image": "../alphabet/ث.png"
+  },
+  {
+    "alphabet": "ج",
+    "image": "../alphabet/ج.png"
+  },
+  {
+    "alphabet": "ح",
+    "image": "../alphabet/ح.png"
+  },
+  {
+    "alphabet": "خ",
+    "image": "../alphabet/خ.png"
+  },
+  {
+    "alphabet": "د",
+    "image": "../alphabet/د.png"
+  },
+  {
+    "alphabet": "ذ",
+    "image": "../alphabet/ذ.png"
+  },
+  {
+    "alphabet": "ر",
+    "image": "../alphabet/ر.png"
+  },
+  {
+    "alphabet": "ز",
+    "image": "../alphabet/ز.png"
+  },
+  {
+    "alphabet": "س",
+    "image": "../alphabet/س.png"
+  },
+  {
+    "alphabet": "ش",
+    "image": "../alphabet/ش.png"
+  },
+  {
+    "alphabet": "ص",
+    "image": "../alphabet/ص.png"
+  },
+  {
+    "alphabet": "ض",
+    "image": "../alphabet/ض.png"
+  },
+  {
+    "alphabet": "ط",
+    "image": "../alphabet/ط.png"
+  },
+  {
+    "alphabet": "ظ",
+    "image": "../alphabet/ظ.png"
+  },
+  {
+    "alphabet": "ع",
+    "image": "../alphabet/ع.png"
+  },
+  {
+    "alphabet": "غ",
+    "image": "../alphabet/غ.png"
+  },
+  {
+    "alphabet": "ف",
+    "image": "../alphabet/ف.png"
+  },
+  {
+    "alphabet": "ق",
+    "image": "../alphabet/ق.png"
+  },
+  {
+    "alphabet": "ك",
+    "image": "../alphabet/ك.png"
+  },
+  {
+    "alphabet": "ل",
+    "image": "../alphabet/ل.png"
+  },
+  {
+    "alphabet": "م",
+    "image": "../alphabet/م.png"
+  },
+  {
+    "alphabet": "ن",
+    "image": "../alphabet/ن.png"
+  },
+  {
+    "alphabet": "ه",
+    "image": "../alphabet/ه.png"
+  },
+  {
+    "alphabet": "و",
+    "image": "../alphabet/و.png"
+  },
+  {
+    "alphabet": "ي",
+    "image": "../alphabet/ي.png"
+  }
+]
